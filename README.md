@@ -1,2 +1,2 @@
-# ml-workflow
+# ML Workflow
 Machine Learning Project Workflow 
